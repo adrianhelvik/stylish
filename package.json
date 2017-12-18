@@ -1,0 +1,17 @@
+{
+  "name": "@adrianhelvik/stylish",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^4.0.1",
+    "react": "^16.2.0"
+  },
+  "peerDependencies": {
+    "react": "^16.2.0"
+  },
+  "scripts": {
+    "start": "mocha --watch",
+    "test": "mocha"
+  }
+}
